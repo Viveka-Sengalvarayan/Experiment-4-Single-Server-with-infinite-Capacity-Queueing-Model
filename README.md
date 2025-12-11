@@ -29,7 +29,7 @@ Name: Viveka
 
 Reg no: 25016820
 
-slot: 3P1
+slot: 3P1-1
 
 ~~~
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs)")) 
