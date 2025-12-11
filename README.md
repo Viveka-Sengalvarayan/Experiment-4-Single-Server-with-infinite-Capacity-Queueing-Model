@@ -31,7 +31,7 @@ Reg no: 25016820
 
 slot: 3P1
 
-
+~~~
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs)")) 
 ser_time=float(input("Enter the mean inter servie time of Lathe Machine (in secs):")) 
 Robot_time=float(input("Enter the Additional time taken for the Robot (in secs):")) 
@@ -56,7 +56,7 @@ if(lam<mu):
 else: 
     print("Warning! Objects overflow will happen in the conveyer") 
 print("----------------------------------------")
-
+~~~
 
 colab link : https://colab.research.google.com/drive/10H0PZXUe3yz2NyOwckRuoo_UqfJuVXQN?usp=sharing
 
